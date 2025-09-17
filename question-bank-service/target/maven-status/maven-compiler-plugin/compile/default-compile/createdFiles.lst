@@ -1,7 +1,0 @@
-com\example\questionbankservice\controller\QuestionBankController.class
-com\example\questionbankservice\domain\BankQuestion$QuestionOption.class
-com\example\questionbankservice\QuestionBankServiceApplication.class
-com\example\questionbankservice\domain\QuestionBank.class
-com\example\questionbankservice\domain\BankQuestion.class
-com\example\questionbankservice\repository\QuestionBankRepository.class
-com\example\questionbankservice\domain\QuestionBank$Difficulty.class
