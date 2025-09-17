@@ -1,0 +1,9 @@
+com\example\resultservice\domain\Quiz.class
+com\example\resultservice\domain\Role.class
+com\example\resultservice\domain\User.class
+com\example\resultservice\controller\ResultController.class
+com\example\resultservice\domain\Quiz$Difficulty.class
+com\example\resultservice\repository\UserRepository.class
+com\example\resultservice\repository\AttemptRepository.class
+com\example\resultservice\ResultServiceApplication.class
+com\example\resultservice\domain\Attempt.class
